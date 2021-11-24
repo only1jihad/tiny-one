@@ -1,0 +1,41 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+/*Common CSS*/
+
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #898989;
+}
+
+/*common css end*/
+/*header start*/
+header {
+    background-color: #fcdb00;
+    padding: 20px 0;
+}
+.cu_nav{}
+.logo{}
+.c_toggle {
+    color: rgba(21, 20, 20, 1.0) !important;
+}
+.menu ul li a {
+    margin: 0 30px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #010101 !important;
+}
+.menu ul li:last-child a {
+    margin-right: 0;
+}
+.menu ul li a:hover {
+    color: white !important;
+}
+/*header end*/
+
+/*banner start*/
+.s_color{
+    background-color: #fcdb00;
+}
+/*banner end*/
