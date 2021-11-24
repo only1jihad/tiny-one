@@ -1,1 +1,1 @@
-https://tiny-one.github.io/only1jihad
+https://only1jihad.github.io/tiny-one/
